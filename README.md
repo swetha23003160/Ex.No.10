@@ -1,66 +1,118 @@
-# Ex.No.10
-Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
+# Ex.No.10 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
+### Name: N.Neethiventhan
+### Reg.No: 212223100038
 
 ## Aim:
-To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
+To demonstrate how different prompting techniques (decision-making prompts, comparative prompts, SWOT-based prompts, etc.) can be used to create business reports, feasibility studies, or case studies. The objective is to evaluate how structured prompting can improve analytical depth, factual accuracy, and professional tone in business-related content.
 
 ## Procedure:
-1.	Introduction to Prompt Patterns: Begin by understanding the following prompt patterns:
-○	Query Decomposition: Breaking down complex queries into smaller, actionable parts.
-○	Decision Making: Asking the model to choose between options or directions.
-○	Answer Engineering: Refining outputs by giving detailed instructions on how to structure or format the answer.
-○	Fact Check List: Ensuring the content is factually accurate, especially for reports or case studies.
-○	Tail Generation: Extending the content logically to create depth in storytelling or analysis.
-○	Menu Actions: Presenting multiple action choices and guiding the AI to select one.
-○	Semantic Filter: Applying filters to control the tone, style, and accuracy of the content.
-2.	Choosing the Content Type: Decide on the type of content you want to create. This could be:
-○	Reports (e.g., industry analysis, sustainability reports, etc.)
-○	Case Studies (e.g., business solutions, technological innovations)
-○	Articles (e.g., opinion pieces, educational articles)
-○	Creative Content (e.g., comic book story, short stories, video scripts)
-3.	For example, you could choose a business report on market trends, a case study on a successful startup, or even a story-based prompt like creating a fictional world for a comic.
-4.	Creating the Prompts:
-○	Start with simple prompts to generate initial content.
-○	Gradually refine the prompts, moving toward more complex techniques like decision-making (asking the model to pick one of several options), tail generation (extending the narrative), and semantic filtering (adjusting style or tone).
-5.	Generating and Refining Outputs: Use the model to generate initial drafts, and then refine the outputs using iterative adjustments:
-○	For a report, prompt the model with basic data, then ask for a deeper analysis and insights.
-○	For creative content, refine the initial story idea with specific details on characters, settings, or actions.
-6.	Review and Evaluation: After generating content, evaluate the outputs for:
-○	Coherence: Is the generated content logical and structured?
-○	Creativity/Originality: Is the content engaging and fresh?
-○	Accuracy: Is the content factually accurate (for reports and case studies)?
-○	Tone and Style: Does the content match the intended tone (formal, creative, educational)?
-________________________________________
-Test Case Scenarios for Content Generation: (USE ANY 2)
-content generation scenarios:
-1.	Business Report on Market Trends
-2.	Case Study on Business Success
-3.	Article on Climate Change
-4.	Creative Writing - Sci-Fi Short Story
-5.	Educational Report on Renewable Energy
-6.	Product Launch Announcement
-7.	Travel Blog Post
-8.	Research Paper on Artificial Intelligence
-9.	Interview Transcript for Documentary
-10.	Sustainability Practices in Fashion
-11.	How to Build an E-commerce Website
-12.	Social Issue Awareness Campaign
-13.	Artificial Intelligence Impact on Healthcare
-## Instructions:
-1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
-2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
-3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
-4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
-5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
+### 1. Introduction to Prompt Patterns:
+
+Begin by understanding how specific prompt patterns can be applied to business contexts:
+
+Decision-Making Prompts: Asking the model to choose between alternative strategies, markets, or business models.
+
+Comparative Prompts: Comparing two or more business scenarios, competitors, or performance metrics.
+
+SWOT-Based Prompts: Using structured frameworks like Strengths, Weaknesses, Opportunities, and Threats to analyze a business situation.
+
+Analytical Prompts: Guiding the model to provide data-driven insights and logical reasoning.
+
+Fact Check List Prompts: Ensuring the generated business content is factual and verifiable.
+
+Tail Generation Prompts: Extending the report with actionable recommendations and future outlooks.
+
+Semantic Filtering Prompts: Adjusting tone and writing style for a formal, professional, or executive audience.
+
+### 2. Choosing the Content Type:
+
+Decide on the business-oriented content to create. Examples include:
+
+Business Report (e.g., Market Trends Analysis, Feasibility Study)
+
+Case Study (e.g., Startup Success Story, Corporate Strategy Analysis)
+
+Comparative Report (e.g., Performance of Competing Firms)
+
+SWOT Analysis Report (e.g., Product Launch Feasibility)
+
+### 3. Creating the Prompts:
+
+Start with simple, general prompts to generate an initial draft.
+
+Gradually refine the prompts by including specific techniques such as:
+
+Decision-Making Prompts: “Choose the best strategy for expanding into international markets.”
+
+Comparative Prompts: “Compare Company A’s sustainability model with Company B’s.”
+
+SWOT-Based Prompts: “Generate a SWOT analysis for launching a new e-commerce platform.”
+
+Semantic Filtering: “Rewrite the report in a formal, boardroom-appropriate tone.”
+
+### 4. Generating and Refining Outputs:
+
+Initial Generation: Use simple prompts to get a basic report or case study draft.
+
+Refinement Phase: Apply advanced prompt techniques to improve the structure, analysis, and professional tone.
+
+Iteration: Modify prompts based on feedback—add more detail, specify tone, or request comparative evaluation.
+
+### 5. Review and Evaluation:
+
+Evaluate the generated outputs based on the following criteria:
+
+Analytical Depth: Are insights data-driven and logically supported?
+
+Professional Tone: Does the report sound formal and industry-appropriate?
+
+Coherence: Is the report structured clearly with proper sections?
+
+Accuracy: Are the facts and statistics plausible or verifiable?
+
+Comparative Insight: Does the analysis offer valuable contrasts and recommendations?
+
+### 6.Test Case Scenarios for Content Generation: 
+
+#### Test Case 1: Business Report on Emerging Market Trends
+
+First Draft:
+Emerging markets like Asia and Africa are growing due to digital adoption and renewable energy. Key trends include e-commerce, fintech, and sustainability.
+
+Refined Content:
+Asia and Africa are leading emerging markets in 2025. Asia offers stability with manufacturing and digital finance, while Africa shows high potential in fintech and green energy.
+
+Final Version:
+Asia’s e-commerce may exceed $2 trillion by 2025, while Africa’s fintech grows by 45%.
+Recommendation: Focus investments on Asia for stability and Africa for innovation.
+
+#### Test Case 2: Case Study on a Successful Startup – Zomato
+
+First Draft:
+Zomato began as a restaurant review app and became a leading food delivery startup in India.
+
+Refined Content (SWOT):
+Strengths: Strong brand, wide network
+Weaknesses: High delivery cost
+Opportunities: Expansion to new cities
+Threats: Competition from Swiggy
+
+Final Version:
+Zomato’s data-driven strategy, partnerships, and IPO success made it a food-tech leader.
+Conclusion: Effective decision-making and innovation drove its long-term growth.
+
+<img width="1536" height="1024" alt="ChatGPT Image Oct 22, 2025, 09_00_19 AM" src="https://github.com/user-attachments/assets/8ac96d79-8e3f-457d-9f2f-af1cbd7ce9a0" />
+
 
 ## Deliverables:
-1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
-2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
-3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
-4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+1.First Draft: Basic business report or case study generated using simple prompts.
+
+2.Refined Content: Enhanced version created using decision-making, comparative, and SWOT-based prompts.
+
+3.Multiple Versions: Demonstrate how different prompt techniques affect tone, structure, and insight.
+
+4.Final Version: Polished report or case study with analytical depth and professional tone.2.2.
 
 ## Conclusion:
-By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+By applying structured prompting techniques such as decision-making, comparative, and SWOT-based prompts, business reports and case studies can achieve higher analytical depth, factual accuracy, and a formal tone. This experiment demonstrates how prompt engineering can guide AI tools like ChatGPT to produce coherent, insightful, and professionally formatted business content.
