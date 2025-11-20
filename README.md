@@ -1,7 +1,7 @@
 # Ex.No.10 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-### Name: N.Neethiventhan
-### Reg.No: 212223100038
+### Name: SWETHA.M
+### Reg.No: 212223040223
 
 ## Aim:
 To demonstrate how different prompting techniques (decision-making prompts, comparative prompts, SWOT-based prompts, etc.) can be used to create business reports, feasibility studies, or case studies. The objective is to evaluate how structured prompting can improve analytical depth, factual accuracy, and professional tone in business-related content.
